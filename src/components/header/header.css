@@ -1,0 +1,14 @@
+.container{
+    margin-top: 10vh;
+    margin-bottom: 0vh;
+}
+
+.upper{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+}
+  
+.lower{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}

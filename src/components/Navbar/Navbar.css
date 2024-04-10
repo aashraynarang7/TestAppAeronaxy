@@ -1,0 +1,8 @@
+.sticky-line {
+    height: 3px;
+    background-color: red; /* Change color as needed */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: width 0.3s ease;
+}

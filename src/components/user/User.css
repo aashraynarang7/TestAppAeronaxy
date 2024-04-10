@@ -1,0 +1,10 @@
+.container{
+    width:60%;
+}
+.user-item{
+}
+.user-item> img{
+
+    display: block;
+    
+}
